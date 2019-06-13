@@ -39,4 +39,4 @@ springfox:
 eureka:
   client:
     service-url:
-      defaultZone: http://eureka.team-p.cloud.school.thoughtworks.cn
+      defaultZone: http://eureka.team-p.cloud.school.thoughtworks.cn/eureka/
